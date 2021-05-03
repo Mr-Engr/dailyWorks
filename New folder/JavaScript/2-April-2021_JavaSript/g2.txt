@@ -1,0 +1,211 @@
+// function sum(a,  b )
+// {
+// var sum = a + b;
+// console.log(sum);
+
+// }
+
+// sum(5 , 5); 
+
+
+function myFunction(){
+
+         var b = +prompt("Enter the FIrst Name ");
+         var p = +prompt("Enter the Last Name");
+    
+      var bS = b * b;
+      var pS = p * p;
+
+      var hypS = (bS + pS);
+      var  hyp = Math.sqrt(hypS);
+      
+      console.log(hyp);
+    
+    }
+    
+    myFunction();
+
+
+// function myFunction(){
+
+//      var stnum1 = +prompt("Enter the FIrst Name ");
+//      var endnum2 = +prompt("Enter the Last Name");
+
+//  for (var i=stnum1; i <= endnum2; i++ )
+//   {
+   
+//   console.log(i);
+
+//   }
+
+
+// }
+
+// myFunction();
+
+
+// function myFunction(){
+
+//      var first = prompt("Enter the FIrst Name ");
+//      var last = prompt("Enter the Last Name");
+
+//       var name = (first + " " + last);
+
+//       console.log("A/Salam " + name);
+
+// }
+
+// myFunction();
+
+
+// function fastFood(menu1, menu2);
+// {
+
+// document.write("Deal one are " + menu1);
+// document.write("Deal two are " + menu2);
+
+// }
+
+// fastFood("Tikka Boti + Raita + Chatni + Parathas","Clud Sandwich + ColesLaw");
+// fastFood("Chicken Biryani with Raita and Salads","Fruit Salad with Olive chunks");
+
+
+// function myFunction(){
+
+// var a = +prompt("Enter the FIrst Value");
+// var b = +prompt("Enter the Second Value");
+
+// var c = a + b;
+// var d = a - b;
+//  document.write("The sum is :" + c);
+//  document.write("\n");
+//  document.write("The subs is :" + d);
+
+// }
+
+
+// myFunction();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//  var birthdate = new Date("August 1, 2021");
+
+// ///// var birthdate = new Date(prompt("Enter Your Birthdate"));
+
+// var today = new Date();
+
+// birthdate = birthdate.getTime();
+// today = today.getTime();
+
+// var diff =  birthdate - today;
+
+// var remainingdays = diff / (1000 * 60 * 60 * 24 ); 
+
+// document.write( "Total Remaning Days are :" + "'" + Math.floor(remainingdays) + "'");
+
+
+// var months = ['Jan','Feb','Mar','April','May','June','July'];
+ 
+// var monthn = todaymonth.getMonth();
+
+
+// var t = new Date();
+// console.log(t.getMonth());
+// console.log(t.getTime());
+// console.log(t.getMilliseconds());
+
+
+// document.write(t.getTime());
+
+
+// var birthdate = new Date("August 1, 1994 06:20:00");
+// var milli = getday[birthdate.getTime()];
+// document.write(milli);
+
+// var a = new Date(milli);
+// document.write(a);
+
+
+// var a = new date(d.getTime(milli));
+
+// var today = new Date();
+// var day = today.getDay();
+
+// if (day == 1)
+// {
+
+//     document.write("The day is Monday");
+// }
+
+// else if (day == 2)
+// {
+
+//     document.write("The day is Monday");
+// }
+
+// else if (day == 3)
+// {
+
+//     document.write("The day is Monday");
+// }
+
+
+// else if (day == 1)
+// {
+
+//     document.write("The day is Monday");
+// }
+
+// else{
+
+//     document.write("The Default day");
+// }
+
+
+// document.write(day);
+
+
+// var num1 = "1232121.3354";
+//  document.write(num1.toFixed(2));
+//  console.log(num1 - 2)
+
+
+
+
+
+// var head = document.getElementById("heading");
+
+/////////////////////////////
+// var a = +prompt("How many paragrapgh you have required ?")
+
+// var head = document.getElementById("abc");
+
+// var para ;
+
+// for(var i = 0; i<a; i++ )
+
+// {
+//     var paratext = prompt("Enter the text");
+//     para = "<p>" + paratext + "</p>" ;
+//     head.innerHTML = head.innerHTML + para;
+
+// }

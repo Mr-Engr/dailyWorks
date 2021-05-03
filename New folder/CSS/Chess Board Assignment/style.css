@@ -1,0 +1,182 @@
+body{
+    background-color: rgb(192, 185, 185);
+}
+.main{
+    width: 850px;
+    height: 800px;
+    margin: 0 auto;
+}
+
+.main > .rw1{
+    width: 80%;
+    height: 80px;
+    margin: 0 auto;
+    
+}
+
+.main > .rw1 > .black{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(145, 161, 130);
+    display: inline-block;
+    
+}
+
+.main > .rw1 > .white{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+}
+
+/* , .rw2, .rw3, .rw4, .rw5, .rw6, .rw7, .rw8 */
+
+.main > .rw2 > .black{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(145, 161, 130);
+    display: inline-block;
+    /* margin: 0 auto; */
+    
+}
+
+.main > .rw2 > .white{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    
+}
+
+.main > .rw3 > .black{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(145, 161, 130);
+    display: inline-block;
+    /* margin: 0 auto; */
+    
+}
+
+.main > .rw3 > .white{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    
+}
+
+.main > .rw4 > .black{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(145, 161, 130);
+    display: inline-block;
+    /* margin: 0 auto; */
+    
+}
+
+.main > .rw4 > .white{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    
+}
+
+.main > .rw5 > .black{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(145, 161, 130);
+    display: inline-block;
+    /* margin: 0 auto; */
+    
+}
+
+.main > .rw5 > .white{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    
+}
+
+.main > .rw6 > .black{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(145, 161, 130);
+    display: inline-block;
+    /* margin: 0 auto; */
+    
+}
+
+.main > .rw6 > .white{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    
+}
+
+.main > .rw7 > .black{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(145, 161, 130);
+    display: inline-block;
+    /* margin: 0 auto; */
+    
+}
+
+.main > .rw7 > .white{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    
+}
+
+.main > .rw8 > .black{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(145, 161, 130);
+    display: inline-block;
+    /* margin: 0 auto; */
+    
+}
+
+.main > .rw8 > .white{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    
+}
+
+.main > .rw9 > .black{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(145, 161, 130);
+    display: inline-block;
+    /* margin: 0 auto; */
+    
+}
+
+.main > .rw9 > .white{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    
+}
+
+.rw2{
+    position: relative;
+
+}
+
+#image1{
+    position:absolute;
+    width: 40px;
+    height: 40px;
+    left: 20px;
+    top: 20px;
+
+}

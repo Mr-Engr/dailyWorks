@@ -1,0 +1,90 @@
+p{
+border-color: red blue;
+border-width: 2px 4px ;
+border-style: solid dotted ;
+
+
+}
+
+
+
+
+/* 
+div{
+
+background-color:red;
+width: 200%;
+height: 400px;
+
+/* max-width: 1500px;
+min-height: 400px; */
+
+
+/* } */
+
+/* p{
+
+    background-color: darkgoldenrod;
+    width: 550px;
+    height: 400px;
+    overflow: scroll;
+    /* max-width: 300px;
+min-height: 200px; */
+/* } */ */
+ /* */ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* a:link{
+color: aqua;
+
+}
+
+a:visited{
+
+color: brown;
+
+}
+
+a:hover{
+
+    color: green;
+}
+
+input:hover{
+
+    background-color: mediumorchid;
+}
+
+input:focus{
+
+    background-color:midnightblue;
+    color: black;
+}
+
+button:hover{
+    background-color: brown;
+}
+
+button:active{
+color: lime;   
+
+} */

@@ -1,0 +1,58 @@
+
+h1{
+text-decoration: underline; 
+text-align: center; 
+}
+
+.baba{
+   
+    padding: 15px;
+    background-color: cornflowerblue;
+    border: 150px double red;
+    /* border-radius: 50px; */
+    border-image: url('image/pngtree-love-line-beautiful-border-png-image_4614987.jpg') 20 20 20 20 stretch;
+
+}
+
+
+
+/* 
+h1{
+    text-decoration: underline;
+}
+
+.baby{
+display: none;
+/* visibility: visible; */
+
+}
+
+/* p{
+
+background-color: chocolate;
+border: 2px solid black;   
+font-size: x-large;
+margin-top: 1px ;
+margin-bottom: 10px ;
+margin-left: auto ;
+margin-right: auto ;
+text-align: left;
+padding-top: 25px ;
+padding-left: 50px; 
+ padding-bottom: 10px;
+padding-right: 100px;
+
+width: 70%;
+
+
+} */
+
+/* .easy{
+
+    
+    width: 70%;
+    margin-top: 1px ;
+margin-bottom: 1px ;
+margin-left: auto ;
+margin-right: auto ;
+} */ */

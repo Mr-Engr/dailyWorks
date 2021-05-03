@@ -1,0 +1,53 @@
+/* 
+div > ul > li {
+
+    color: aqua;
+    background-color: azure;
+}
+
+
+div > ol > li {
+
+color: brown;
+background-color: cornsilk;
+
+}
+
+
+h1{
+
+color: crimson;
+background-color: darkolivegreen;
+
+
+}
+
+div > h2, h3 {
+
+    color: chocolate;
+    background-color: cornsilk;
+}
+
+.container > p {
+    color: darkseagreen;
+    background-color: darkred;
+
+} */
+
+* {
+    font-family: Arial, Verdana, sans-serif;}
+    h1 { font-family: "Courier New", monospace;}
+    i {
+    color: green;}
+    i {
+    color: red;}
+    b {
+    color: pink;}
+    p b {
+    color: blue !important;}
+    p b {
+    color: violet;}
+    p#intro {
+    font-size: 100%;}
+    p {
+    font-size: 75%;}

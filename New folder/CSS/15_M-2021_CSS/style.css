@@ -1,0 +1,23 @@
+div{
+  padding: 10px;
+
+}
+
+.img{
+    font-family: 'Courier New', Courier, monospace;
+    color: azure;
+    background: url('./New folder/abc.jpg');
+    width: 100%;
+    height: 1500px;
+    background-position: center top;
+    background-repeat: no-repeat;
+    border: 3px solid red;
+    /* padding-top: 50px ; */
+    /* background-position: center; */
+    /* background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: left top; */
+
+     /* background: url('New folder/abc.jpg') no-repeat fixed left center; */
+
+}

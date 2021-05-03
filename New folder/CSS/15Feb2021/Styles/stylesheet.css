@@ -1,0 +1,35 @@
+
+/* h1,p {
+ 
+    color: cornflowerblue;
+    background-color: black;
+
+}
+
+
+p{
+
+color: brown;
+background-color: cornflowerblue;
+
+} */
+
+
+
+
+#special{
+color: darkmagenta;
+background-color: goldenrod;
+
+}
+
+.even{
+
+    color: gray;
+    background: greenyellow;
+}
+
+.odd{
+    color: lightcoral;
+    background-color: mediumpurple;
+}

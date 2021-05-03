@@ -1,0 +1,85 @@
+
+h1{
+ 
+text-align: center; 
+text-transform: uppercase;
+/* display: flex; */
+} 
+
+
+
+.a1{
+
+width: 100%;
+height: 400px;
+ margin: 0; 
+ padding: 0;
+display: flex;
+/* flex-direction: row; */
+flex-direction: row;
+/* border: 5px solid black; */
+
+/* flex-wrap: wrap; */
+
+/* justify-content: flex-start;
+justify-content:flex-end ; */
+/* justify-content: center ; */
+  /* justify-content: space-between ;  */
+/* justify-content: space-around ; */
+ justify-content: space-evenly;  
+
+
+}
+
+.abc{
+    width: 25%;
+
+    border: 1px solid red;
+    align-items: stretch;
+}
+
+/* p{
+
+    border: 2px double red;
+}  */
+
+
+
+
+
+/* 
+.abc{
+
+background-color: blanchedalmond;
+border-bottom: 15px dotted black;
+padding-bottom: 40px;
+margin: 0px; 
+
+}*/
+
+/* 
+@media only screen and (max-width: 1000px) and (min-width: 601px) {
+.abc{
+    background-color: chocolate;
+    color: blue;
+    border-left:15px dotted black ;
+    border-right:15px dotted black ;
+    border-bottom:15px dotted black ;
+    /* bo13254697rder: 12px dotted black; */
+
+
+/* }} */
+
+/* @media only screen and (max-width: 600px) and (min-width:0px )
+{
+    .abc{
+        background-color: red;
+        color: black;
+        font-weight: bold;
+
+        padding: 10px;     
+        border: 10px dotted black;
+
+    
+    }} */ 
+

@@ -1,0 +1,32 @@
+/* *{
+    margin: 0%;
+    padding: 0%;
+} */
+/* .footer{
+    width: 100%;
+
+} */
+.login a {
+    color: indianred;
+    text-decoration: none;
+    padding-left: 50%;
+}
+.custom-logo{
+    width: auto;
+    height: 60px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+}
+.list ul li {
+    display: inline;
+    margin: 15px;
+}
+.list a{
+    text-decoration: none;
+    color: #000;
+    
+}

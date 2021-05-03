@@ -1,0 +1,20 @@
+
+
+<label for="age"> Age: </label>
+
+<p> <b>Note:</b> 18+ is not </p>
+
+<input type="text" name="age" id="age">
+
+
+<form method="GET">
+
+  <label > Username: <input type="text" name="username"> </label>
+  <label > Password: <input type="password" name="password"> </label>
+
+<label > <input type="file" name="resume"> </label>
+<br/>
+    <input type="image" src="image/download.jfif" width="100" height="50">
+
+fieldset use for grouping
+legend
